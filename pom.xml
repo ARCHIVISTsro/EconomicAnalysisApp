@@ -71,7 +71,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.economicanalysisapp/com.example.economicanalysisapp.HelloApplication
+                                com.example.economicanalysisapp/com.example.economicanalysisapp.Main
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
